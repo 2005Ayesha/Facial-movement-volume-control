@@ -145,4 +145,4 @@ GitHub: [2005Ayesha](https://github.com/2005Ayesha)
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!
+⭐ If you find this project interesting, consider giving the repository a star..
